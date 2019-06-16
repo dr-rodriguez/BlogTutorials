@@ -7,5 +7,6 @@ These posts in particular use the notebooks in this repo:
 
  - [Data Science: Python Dataclasses and MongoDB](https://strakul.blogspot.com/2019/05/data-science-python-dataclasses-and.html)
  - [Data Science: Astronomy FITS Headers in MongoDB](https://strakul.blogspot.com/2019/06/data-science-astronomy-fits-headers-in.html) 
+ - [Data Science: MongoDB Sky Searches with HEALPix](https://strakul.blogspot.com/2019/06/data-science-mongodb-sky-searches-with.html)
 
 If GitHub has issues displaying the notebook, you can paste the URL into [nbviewer](https://nbviewer.jupyter.org/) to render it there.
